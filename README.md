@@ -23,39 +23,46 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: Christopher Acosta Varela
+* Nombre: Christopher Ivan Acosta Varela
 * Ocupación: Estudiante de Ingeniería en Computación
 * Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Link](https://chrisacosta19.github.io/ChrisAcosta19/)
 * Contacto: chriacos@espol.edu.ec
 ## Proyectos
-Los proyectos que más quiero destacar en mi etapa de estudiante de Ingeniería en Computación, son aquellos que realicé en la materia de Programarción Orientada a Objetos (POO).
+Los proyectos que más quiero destacar en mi etapa de estudiante de Ingeniería en Computación, son aquellos que realicé en las materias de Inteligencia Artificial, Introducción a la Ciencia de datos
 
-En el Primer Parcial, se desarrolló un sistema de reservación de citas médicas. Cuenta con las opciones de Servicios, Empleados, Clientes, Citas, Atenciones y Salir.
-Se pueden listar, agregar, eliminar, editar Servicios, Empleados y Clientes. En cambio, se pueden agregar, consultar por fecha y eliminar citas. Por último, se pueden registrar y consultar atenciones. Para este proyecto, se usó el lenguaje Java por tener que hacer un sistema orientado a objetos.
-![image](https://github.com/ChrisAcosta19/ChrisAcosta19/assets/105894228/b7b03884-deda-4e28-8269-b7b3a218c562)
+En la materia Inteligencia artificial, se trabajó el proyecto “Predicción de avalúo de vehículos usados en Ecuador”. En este proyecto se desarrolló un modelo predictivo capaz de estimar el valor de los vehículos usados con el fin de ayudar en la toma de decisiones a clientes, aseguradoras, concesionarias, bancos y un frontend web local para la aplicación con Python, Dart, Flask, Flutter.
 
-Link del repositorio del proyecto: [Link](https://github.com/ChrisAcosta19/POO-P2-G04)
+![image](https://github.com/user-attachments/assets/f2b1305c-1c64-4c54-b24d-78c3bd6b0464)
 
-En el Segundo Parcial, se implementó la interfaz gráfica de usuario del proyecto del primer parcial. Para esto, se usó el conjunto de bibliotecas proporcionado por JavaFX porque ofrece muchas características que hacen que la creación de interfaces gráficas atractivas y funcionales sea más accesible para los desarrolladores. Además, se usaron hojas de estilo CSS para dar formato a las ventanas y a los elementos conforman la misma.
-![image](https://github.com/ChrisAcosta19/ChrisAcosta19/assets/105894228/5782174e-a22c-4f8b-a9d4-b15dd7d13a54)
+Link del repositorio del proyecto: [Link](https://github.com/codeswax/Proyecto-IA).
 
-Link del repositorio del proyecto: [Link](https://github.com/ChrisAcosta19/POO-P2-G04-Parcial2)
+En la materia Introducción a la Ciencia de Datos, se trabajó el proyecto “Clasificación de eventos peligrosos Ecuador”. En este proyecto se desarrolló un modelo predictivo capaz de clasificar el nivel de peligrosidad de los eventos peligrosos que ocurrieron en Ecuador entre 2010 y 2022 con Python y Anaconda.
+
+![image](https://github.com/user-attachments/assets/4b9330e2-2a36-4107-aa7a-b93421117669)
+
+Link del repositorio del proyecto: [Link](https://colab.research.google.com/drive/1HbhE_y5Pf43QbqXQSLR_599nRbxSu_0H?usp=sharing)
+
+En la materia Lenguajes de Programación, se trabajó el proyecto “Plataforma web para gestionar citas profesionales”. En este proyecto Se desarrollo una aplicación web Full-Stack que permita a los clientes agendar, reprogramar y cancelar citas con diversos profesionales (abogados, contadores, psicólogos, traductores, etc) con Python, Dart, Django, Flutter, MySQL.
+
+![image](https://github.com/user-attachments/assets/1d8b9f30-c4ac-4a11-aaa5-22b63673d89f)
+
+Link del repositorio del proyecto: [Link](https://github.com/ChrisAcosta19/LP-Grupo8-Parcial2)
 
 ## Intereses
 ### Pasatiempos y hobbies:
 Escuchar música, tocar el piano, aprender nuevos lenguajes de programación.
 ### Deportes:
-Me gusta mucho jugar fútbol, aunque también disfruto la natación y ciclismo.
+Me gusta jugar fútbol, aunque también disfruto la natación y ciclismo.
 ### Viajes:
 Con mis padres he viajado a varias ciudades del Ecuador, pero los viajes más destacados fueron los de Galápagos y Quito porque fui en avión.
 ### Arte y cultura:
-Me gusta el teatro ya que he actuado en algunas obras organizadas en mi colegio.
+Me gusta el teatro ya que actué en algunas obras organizadas en mi colegio.
 ### Proyectos personales:
 En un futuro, tal vez me gustaría desarrollar un videojuego usando lo que aprendí de los diversos lenguajes de programación.
 ### Logros personales:
-He sido Ayudante de Docencia de Física Mecánica en la Ecuela Superior Politécnica del Litoral (ESPOL)
+He sido Ayudante de Docencia de Física Mecánica y Estadística en la Ecuela Superior Politécnica del Litoral (ESPOL)
 ### Libros, películas y música favoritos:
-- Aunque no sea de leer mucho, creo que "Los cachorros" de Mario Vargas Llosa tiene buenas lecciones de vida.
-- Me gustan películas de acción, la última que vi fue "Megalodón 2"
-- En cuanto a la música, prefieron las del género Electrónica.
+- Aunque no sea de leer mucho, creo que "Los cachorros" de Mario Vargas Llosa tiene interesantes lecciones de vida.
+- Me gustan películas de acción, una de mis favoritas es "Megalodón 2".
+- En cuanto a la música, mi género favorito es la Electrónica.
