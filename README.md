@@ -43,7 +43,7 @@ Se desarrolló un modelo predictivo capaz de clasificar el uso del suelo de imá
 
 Link del repositorio del Frontend del proyecto: [Link](https://github.com/robtrivi/sigma-frontend.git)
 
-Link del respositorio del backend del proyecto: [Link](https://github.com/robtrivi/sigma-backend.git)
+Link del respositorio del Backend del proyecto: [Link](https://github.com/robtrivi/sigma-backend.git)
 
 ### Predidcción de Avalúo de Vehículos Usados en Ecuador
 Se desarrolló un modelo predictivo capaz de estimar el valor de los vehículos usados con el fin de ayudar en la toma de decisiones a clientes, aseguradoras, concesionarias, bancos y un frontend web local para la aplicación con Flask (Python) y Flutter (Dart).
