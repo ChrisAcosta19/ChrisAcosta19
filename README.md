@@ -25,7 +25,8 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Ocupación: Egresado de Ingeniería en Computación, tesis sustentada, en espera de emisión de título
 * Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Link](https://chrisacosta19.github.io/ChrisAcosta19/)
-* Contacto: chriacos@espol.edu.ec
+* Correo: chris10acostavarela@gmail.com
+* LinkedIn: www.linkedin.com/in/chris-acosta-varela-b48638221
 ## Proyectos
 A continuación, se destacan los proyectos personales más relevantes desarollados durante mis estudios de Ingeniería de Computación:
 
