@@ -32,13 +32,16 @@ A continuación, se destacan los proyectos personales más relevantes desarollad
 ### Agente Clasificador de Riesgo de Deserción
 Se desarrolló un agente inteligente diseñado para proveedores de servicios de internet (ISP). El sistema combina un asistente de soporte técnico con un motor analítico que predice el riesgo de que un cliente cancele su servicio (churn) basándose en su léxico y sentimiento.
 
+![Agente Clasificador de Riesgo de Deserción](https://github.com/user-attachments/assets/b63959bd-8782-49d9-8e7e-0ff298bf263b)
+
 Link del repositorio del proyecto: [Link](https://github.com/cristhianromero552-create/Semillero-ia--Agente-Clasificador-de-Riesgo-de-Desercion--Grupo-DeepThinkers-.git)
 
 ### Sistema Inteligente de Visualización Geoespacial de Áreas Verdes en ESPOL
 Se desarrolló un modelo predictivo capaz de clasificar el uso del suelo de imágenes aéreas del campus Gustavo Galindo Velasco de la Escuela Superior Politécnica del Litoral (ESPOL) capturadas por drones y su aplicación web con Angular (TypeScript), FastAPI (Python) y PostgreSQL.
 
-Link del repositorio del Frontend del proyecto: [Link](https://github.com/robtrivi/sigma-frontend.git)
+<img width="1402" height="665" alt="image" src="https://github.com/user-attachments/assets/d12464f3-4caa-49c4-80e3-a736db228472" />
 
+Link del repositorio del Frontend del proyecto: [Link](https://github.com/robtrivi/sigma-frontend.git)
 Link del respositorio del backend del proyecto: [Link](https://github.com/robtrivi/sigma-backend.git)
 
 ### Predidcción de Avalúo de Vehículos Usados en Ecuador
