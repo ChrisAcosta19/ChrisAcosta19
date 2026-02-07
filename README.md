@@ -42,6 +42,7 @@ Se desarrolló un modelo predictivo capaz de clasificar el uso del suelo de imá
 <img width="1402" height="665" alt="image" src="https://github.com/user-attachments/assets/d12464f3-4caa-49c4-80e3-a736db228472" />
 
 Link del repositorio del Frontend del proyecto: [Link](https://github.com/robtrivi/sigma-frontend.git)
+
 Link del respositorio del backend del proyecto: [Link](https://github.com/robtrivi/sigma-backend.git)
 
 ### Predidcción de Avalúo de Vehículos Usados en Ecuador
